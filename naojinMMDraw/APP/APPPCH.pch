@@ -1,0 +1,21 @@
+
+//
+//  APPPCH.pch
+//  sanshiliuji
+//
+//  Created by yang mengge on 15/3/14.
+//  Copyright (c) 2015年 zhai shuqing. All rights reserved.
+//
+
+#ifndef sanshiliuji_APPPCH_pch
+#define sanshiliuji_APPPCH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "YMGMacros.h"
+#import "Commopertion.h"
+#import "Define.h"
+#import "UIViewController+MMDrawerController.h"
+
+#endif

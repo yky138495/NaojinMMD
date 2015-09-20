@@ -1,0 +1,6 @@
+source 'https://gitcafe.com/akuandev/Specs.git'
+pod 'MMDrawerController', '~> 0.5.7'
+pod 'Mantle', '~> 1.5'
+pod 'Masonry', '~> 0.5.3'
+pod 'AFNetworking', '~> 2.3.1'
+pod 'FMDB', '~> 2.3'
